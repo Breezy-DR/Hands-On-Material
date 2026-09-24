@@ -1,0 +1,101 @@
+OrderID,CustomerID,OrderDate,ProductID,Quantity,Discount,PaymentMethod,Status,Age,City,SignupDate,CustomerSegment,ProductName,Category,UnitPrice,Sales,OrderValue
+500001,103695,2025-08-28,2003,4.0,10.0,Gateway,Completed,36.0,Qom,2024-03-05,Regular,USB-C Cable,Accessories,9.0,32.0,32.0
+500002,107935,2024-05-31,2014,1.0,10.0,Wallet,Completed,49.0,Kerman,2025-06-04,Regular,Backpack,Accessories,42.0,38.0,38.0
+500003,105141,2025-08-10,2002,1.0,20.0,CardToCard,Completed,36.0,Tehran,2025-10-19,Regular,Mechanical Keyboard,Electronics,62.0,50.0,50.0
+500004,108780,2024-10-11,2012,1.0,10.0,Gateway,Completed,45.0,Shiraz,2023-12-07,Regular,Office Chair,Home Office,180.0,162.0,162.0
+500005,101187,2024-02-19,2008,2.0,0.0,Gateway,Completed,24.0,Karaj,2023-12-02,Regular,Phone Case,Accessories,14.0,28.0,28.0
+500006,105545,2024-07-16,2011,4.0,0.0,Gateway,Returned,28.0,Tehran,2024-08-07,New,Desk Lamp,Home Office,32.0,128.0,128.0
+500007,106418,2025-10-15,2017,1.0,5.0,Wallet,Completed,23.0,Isfahan,2023-03-09,New,HDMI Cable,Accessories,11.0,10.0,10.0
+500008,108755,2024-12-03,2014,1.0,0.0,Gateway,Completed,41.0,Mashhad,2025-11-20,Regular,Backpack,Accessories,42.0,42.0,42.0
+500009,105133,2025-04-15,2004,1.0,10.0,Gateway,Completed,40.0,Isfahan,2025-05-04,New,Power Bank,Electronics,35.0,32.0,32.0
+500010,103111,2024-04-28,2014,2.0,5.0,Gateway,Cancelled,43.0,Mashhad,2024-06-20,New,Backpack,Accessories,42.0,80.0,80.0
+500011,102192,2024-03-21,2004,3.0,30.0,Gateway,Completed,37.0,Tehran,2023-12-02,New,Power Bank,Electronics,35.0,74.0,74.0
+500012,102921,2024-07-25,2001,1.0,5.0,Wallet,Completed,33.0,Tabriz,2024-01-19,VIP,Wireless Mouse,Electronics,18.0,17.0,17.0
+500013,101803,2025-02-12,2005,3.0,10.0,CardToCard,Completed,39.0,Isfahan,2024-10-31,Regular,Laptop Stand,Accessories,28.0,76.0,76.0
+500014,108853,2026-01-01,2001,2.0,5.0,CardToCard,Completed,44.0,Tehran,2025-08-14,New,Wireless Mouse,Electronics,18.0,34.0,34.0
+500015,102106,2025-10-21,2017,1.0,0.0,Wallet,Completed,31.0,Tehran,2025-12-10,Regular,HDMI Cable,Accessories,11.0,11.0,11.0
+500016,104175,2024-05-18,2002,3.0,0.0,Gateway,Completed,37.0,Rasht,2023-05-20,New,Mechanical Keyboard,Electronics,62.0,186.0,186.0
+500017,101158,2024-03-02,2001,2.0,5.0,Gateway,Completed,58.0,Tehran,2024-09-29,VIP,Wireless Mouse,Electronics,18.0,34.0,34.0
+500018,109942,2024-07-13,2013,2.0,0.0,Gateway,Completed,48.0,Rasht,2025-09-13,New,Notebook,Stationery,7.0,14.0,14.0
+500019,104270,2026-01-06,2013,1.0,0.0,CardToCard,Completed,42.0,Ahvaz,2023-10-20,Regular,Notebook,Stationery,7.0,7.0,7.0
+500020,109355,2025-03-21,2017,2.0,20.0,Cash,Completed,37.0,Rasht,2024-05-03,New,HDMI Cable,Accessories,11.0,18.0,18.0
+500021,105138,2025-11-28,2017,2.0,0.0,Gateway,Completed,49.0,Karaj,2023-05-27,Regular,HDMI Cable,Accessories,11.0,22.0,22.0
+500022,105368,2024-11-15,2013,2.0,0.0,Gateway,Completed,45.0,Isfahan,2025-09-04,Regular,Notebook,Stationery,7.0,14.0,14.0
+500023,108138,2025-05-25,2006,1.0,20.0,Cash,Completed,61.0,Tehran,2025-08-30,New,Webcam,Electronics,48.0,38.0,38.0
+500024,107845,2025-05-28,2013,3.0,0.0,Gateway,Completed,26.0,Tehran,2024-04-23,Regular,Notebook,Stationery,7.0,21.0,21.0
+500025,109039,2025-06-25,2013,1.0,15.0,Gateway,Completed,65.0,Ahvaz,2025-01-01,New,Notebook,Stationery,7.0,6.0,6.0
+500026,107998,2025-02-10,2010,2.0,5.0,CardToCard,Completed,34.0,Mashhad,2024-12-18,New,Fitness Band,Wearables,55.0,104.0,104.0
+500027,108982,2024-07-25,2006,2.0,10.0,Cash,Completed,43.0,Tehran,2024-05-08,Regular,Webcam,Electronics,48.0,86.0,86.0
+500028,103563,2025-01-05,2002,1.0,0.0,Gateway,Completed,38.0,Ahvaz,2023-04-11,Regular,Mechanical Keyboard,Electronics,62.0,62.0,62.0
+500029,100210,2026-05-29,2002,1.0,10.0,Wallet,Completed,55.0,Tehran,2024-04-13,Regular,Mechanical Keyboard,Electronics,62.0,56.0,56.0
+500030,104615,2024-08-23,2019,2.0,5.0,CardToCard,Completed,44.0,Tehran,2024-04-06,VIP,Tablet,Electronics,260.0,494.0,494.0
+500031,101683,2025-09-18,2011,2.0,0.0,Gateway,Completed,19.0,Shiraz,2025-04-27,Regular,Desk Lamp,Home Office,32.0,64.0,64.0
+500032,109032,2026-04-21,2008,2.0,0.0,Wallet,Completed,32.0,Karaj,2023-10-02,Regular,Phone Case,Accessories,14.0,28.0,28.0
+500033,107365,2025-05-04,2007,3.0,5.0,Gateway,Completed,65.0,Kerman,2025-12-15,Regular,Headphones,Electronics,75.0,214.0,214.0
+500034,105082,2025-02-26,2004,2.0,5.0,Gateway,Completed,42.0,Tehran,2025-11-02,New,Power Bank,Electronics,35.0,66.0,66.0
+500035,106013,2024-04-14,2008,5.0,10.0,Wallet,Completed,49.0,Tabriz,2024-07-05,Regular,Phone Case,Accessories,14.0,63.0,63.0
+500037,107822,2026-03-10,2013,1.0,0.0,Gateway,Completed,42.0,Tehran,2023-03-30,VIP,Notebook,Stationery,7.0,7.0,7.0
+500038,101279,2026-06-06,2001,4.0,15.0,Gateway,Completed,18.0,Karaj,2023-06-04,Regular,Wireless Mouse,Electronics,18.0,61.0,61.0
+500039,107601,2024-06-23,2013,5.0,5.0,Gateway,Returned,24.0,Karaj,2023-01-29,New,Notebook,Stationery,7.0,33.0,33.0
+500040,104265,2026-03-21,2011,4.0,10.0,Gateway,Cancelled,46.0,Tehran,2025-07-30,VIP,Desk Lamp,Home Office,32.0,115.0,115.0
+500041,104458,2024-11-16,2010,2.0,30.0,Gateway,Completed,19.0,Tehran,2025-10-27,Regular,Fitness Band,Wearables,55.0,77.0,77.0
+500042,104499,2025-06-19,2006,1.0,10.0,Gateway,Completed,29.0,Kerman,2023-02-17,Regular,Webcam,Electronics,48.0,43.0,43.0
+500043,109584,2024-07-12,2020,1.0,0.0,Gateway,Completed,18.0,Tabriz,2024-12-19,Regular,Gaming Controller,Gaming,68.0,68.0,68.0
+500044,104936,2024-08-02,2005,1.0,0.0,CardToCard,Completed,46.0,Mashhad,2024-02-02,Regular,Laptop Stand,Accessories,28.0,28.0,28.0
+500045,100241,2025-06-18,2017,2.0,5.0,Gateway,Completed,24.0,Tehran,2023-12-20,Regular,HDMI Cable,Accessories,11.0,21.0,21.0
+500046,107541,2025-02-22,2002,1.0,5.0,CardToCard,Completed,49.0,Mashhad,2024-06-02,Regular,Mechanical Keyboard,Electronics,62.0,59.0,59.0
+500047,109317,2026-05-16,2003,3.0,0.0,CardToCard,Completed,65.0,Tabriz,2023-12-02,Regular,USB-C Cable,Accessories,9.0,27.0,27.0
+500048,109778,2024-08-16,2010,2.0,0.0,Cash,Completed,36.0,Tehran,2023-11-13,New,Fitness Band,Wearables,55.0,110.0,110.0
+500049,102735,2026-01-28,2003,2.0,0.0,CardToCard,Completed,39.0,Qom,2025-01-03,VIP,USB-C Cable,Accessories,9.0,18.0,18.0
+500050,103894,2025-02-01,2017,1.0,5.0,Gateway,Completed,27.0,Tehran,2025-09-25,Regular,HDMI Cable,Accessories,11.0,10.0,10.0
+500051,102673,2024-04-26,2011,1.0,0.0,Gateway,Completed,58.0,Rasht,2025-07-26,New,Desk Lamp,Home Office,32.0,32.0,32.0
+500052,108100,2024-07-25,2013,3.0,10.0,Wallet,Completed,52.0,Mashhad,2024-09-17,VIP,Notebook,Stationery,7.0,19.0,19.0
+500053,106454,2025-10-14,2013,1.0,0.0,Wallet,Completed,50.0,Tehran,2023-02-26,New,Notebook,Stationery,7.0,7.0,7.0
+500054,106300,2025-12-15,2011,1.0,20.0,Wallet,Returned,26.0,Tabriz,2025-08-07,New,Desk Lamp,Home Office,32.0,26.0,26.0
+500055,109861,2024-02-04,2011,2.0,15.0,Cash,Completed,43.0,Tehran,2024-11-07,New,Desk Lamp,Home Office,32.0,54.0,54.0
+500056,108499,2024-12-20,2018,2.0,0.0,Wallet,Completed,46.0,Tehran,2023-01-17,New,Microphone,Electronics,85.0,170.0,170.0
+500057,101360,2025-03-02,2011,1.0,0.0,Gateway,Completed,35.0,Isfahan,2025-03-13,New,Desk Lamp,Home Office,32.0,32.0,32.0
+500058,104257,2025-06-15,2010,2.0,0.0,Gateway,Completed,33.0,Tehran,2024-06-05,New,Fitness Band,Wearables,55.0,110.0,110.0
+500059,109227,2025-07-16,2003,1.0,0.0,Wallet,Completed,52.0,Tehran,2024-07-08,New,USB-C Cable,Accessories,9.0,9.0,9.0
+500060,104648,2025-12-18,2009,2.0,15.0,Wallet,Completed,21.0,Isfahan,2023-04-25,Regular,Smart Watch,Wearables,120.0,204.0,204.0
+500061,103566,2024-08-24,2011,2.0,0.0,Cash,Completed,30.0,Mashhad,2023-01-04,New,Desk Lamp,Home Office,32.0,64.0,64.0
+500062,103020,2024-04-06,2007,3.0,5.0,Gateway,Completed,53.0,Tabriz,2023-05-07,New,Headphones,Electronics,75.0,214.0,214.0
+500063,106946,2024-06-10,2011,1.0,0.0,Gateway,Completed,44.0,Tabriz,2025-07-19,Regular,Desk Lamp,Home Office,32.0,32.0,32.0
+500064,107003,2026-04-11,2015,2.0,10.0,CardToCard,Completed,64.0,Tehran,2023-06-14,Regular,Bluetooth Speaker,Electronics,58.0,104.0,104.0
+500065,104518,2025-04-17,2014,1.0,0.0,CardToCard,Completed,20.0,Mashhad,2024-01-11,Regular,Backpack,Accessories,42.0,42.0,42.0
+500066,102799,2024-07-08,2017,1.0,5.0,Gateway,Completed,51.0,Mashhad,2023-12-30,New,HDMI Cable,Accessories,11.0,10.0,10.0
+500067,100378,2025-11-09,2013,1.0,5.0,Gateway,Completed,53.0,Karaj,2023-08-31,Regular,Notebook,Stationery,7.0,7.0,7.0
+500068,104093,2025-05-22,2002,1.0,5.0,Wallet,Cancelled,35.0,Tehran,2025-10-25,Regular,Mechanical Keyboard,Electronics,62.0,59.0,59.0
+500069,103550,2024-11-13,2011,4.0,10.0,Gateway,Returned,48.0,Tabriz,2024-06-22,New,Desk Lamp,Home Office,32.0,115.0,115.0
+500070,105158,2024-01-16,2003,3.0,0.0,Gateway,Completed,23.0,Qom,2024-11-06,New,USB-C Cable,Accessories,9.0,27.0,27.0
+500071,100053,2025-11-07,2008,1.0,10.0,Wallet,Completed,35.0,Shiraz,2024-02-27,Regular,Phone Case,Accessories,14.0,13.0,13.0
+500072,108212,2025-09-12,2017,1.0,20.0,CardToCard,Completed,22.0,Mashhad,2023-05-11,New,HDMI Cable,Accessories,11.0,9.0,9.0
+500073,102545,2024-08-14,2002,2.0,5.0,Gateway,Completed,56.0,Shiraz,2023-02-22,New,Mechanical Keyboard,Electronics,62.0,118.0,118.0
+500074,106487,2024-08-17,2014,5.0,10.0,Gateway,Completed,55.0,Kerman,2025-06-11,Regular,Backpack,Accessories,42.0,189.0,189.0
+500075,104951,2024-08-22,2007,1.0,5.0,Wallet,Completed,33.0,Tehran,2025-01-18,New,Headphones,Electronics,75.0,71.0,71.0
+500076,105369,2025-08-02,2014,3.0,5.0,Gateway,Completed,49.0,Isfahan,2024-12-10,Regular,Backpack,Accessories,42.0,120.0,120.0
+500077,108987,2024-09-11,2003,2.0,30.0,Gateway,Completed,53.0,Tehran,2025-06-06,Regular,USB-C Cable,Accessories,9.0,13.0,13.0
+500078,100771,2024-09-25,2002,2.0,30.0,CardToCard,Completed,49.0,Qom,2025-01-20,New,Mechanical Keyboard,Electronics,62.0,87.0,87.0
+500079,103388,2024-11-21,2015,2.0,20.0,Wallet,Completed,53.0,Shiraz,2023-06-13,New,Bluetooth Speaker,Electronics,58.0,93.0,93.0
+500080,100685,2026-06-05,2013,1.0,0.0,Gateway,Cancelled,26.0,Isfahan,2025-04-22,New,Notebook,Stationery,7.0,7.0,7.0
+500081,107845,2025-02-01,2018,2.0,0.0,Gateway,Completed,26.0,Tehran,2024-04-23,Regular,Microphone,Electronics,85.0,170.0,170.0
+500082,103580,2024-11-22,2007,3.0,5.0,CardToCard,Completed,21.0,Tehran,2023-09-24,Regular,Headphones,Electronics,75.0,214.0,214.0
+500083,104496,2025-02-10,2008,1.0,0.0,Wallet,Completed,48.0,Tehran,2023-06-02,Regular,Phone Case,Accessories,14.0,14.0,14.0
+500084,100243,2025-09-13,2013,3.0,5.0,CardToCard,Completed,22.0,Mashhad,2023-05-21,New,Notebook,Stationery,7.0,20.0,20.0
+500085,106025,2026-02-03,2003,1.0,0.0,Gateway,Completed,41.0,Tehran,2023-02-23,New,USB-C Cable,Accessories,9.0,9.0,9.0
+500086,102251,2026-06-19,2001,1.0,0.0,Gateway,Completed,42.0,Shiraz,2025-05-24,Regular,Wireless Mouse,Electronics,18.0,18.0,18.0
+500087,100613,2025-02-23,2015,2.0,0.0,Gateway,Completed,55.0,Mashhad,2024-07-24,New,Bluetooth Speaker,Electronics,58.0,116.0,116.0
+500088,109509,2025-02-01,2008,3.0,5.0,CardToCard,Completed,57.0,Tabriz,2025-11-11,Regular,Phone Case,Accessories,14.0,40.0,40.0
+500089,105172,2024-10-12,2019,2.0,5.0,Gateway,Completed,39.0,Mashhad,2025-12-28,Regular,Tablet,Electronics,260.0,494.0,494.0
+500090,102165,2025-11-04,2003,4.0,10.0,Wallet,Completed,63.0,Rasht,2024-01-23,New,USB-C Cable,Accessories,9.0,32.0,32.0
+500091,103486,2025-07-20,2003,1.0,10.0,Cash,Cancelled,19.0,Ahvaz,2025-08-29,Regular,USB-C Cable,Accessories,9.0,8.0,8.0
+500092,107995,2024-11-09,2001,5.0,5.0,CardToCard,Completed,58.0,Qom,2025-02-06,Regular,Wireless Mouse,Electronics,18.0,86.0,86.0
+500094,106590,2024-06-26,2015,2.0,30.0,Gateway,Completed,41.0,Tehran,2025-12-06,Regular,Bluetooth Speaker,Electronics,58.0,81.0,81.0
+500095,102948,2025-08-22,2020,1.0,15.0,Gateway,Completed,41.0,Isfahan,2025-11-03,Regular,Gaming Controller,Gaming,68.0,58.0,58.0
+500096,101255,2024-08-05,2018,1.0,0.0,CardToCard,Completed,49.0,Rasht,2025-04-30,Regular,Microphone,Electronics,85.0,85.0,85.0
+500097,100083,2024-10-29,2004,1.0,30.0,Gateway,Completed,25.0,Isfahan,2023-12-19,Regular,Power Bank,Electronics,35.0,24.0,24.0
+500098,102041,2024-02-29,2017,3.0,0.0,Gateway,Cancelled,31.0,Tabriz,2025-03-28,Regular,HDMI Cable,Accessories,11.0,33.0,33.0
+500099,109236,2024-07-09,2014,4.0,10.0,CardToCard,Completed,44.0,Isfahan,2024-03-24,New,Backpack,Accessories,42.0,151.0,151.0
+500100,100300,2024-06-17,2005,3.0,0.0,CardToCard,Completed,19.0,Tehran,2025-11-02,New,Laptop Stand,Accessories,28.0,84.0,84.0
+500101,100163,2025-09-27,2008,2.0,15.0,Gateway,Completed,37.0,Tehran,2024-08-22,Regular,Phone Case,Accessories,14.0,24.0,24.0
+500102,100303,2025-08-23,2010,1.0,0.0,Gateway,Completed,18.0,Karaj,2023-10-25,Regular,Fitness Band,Wearables,55.0,55.0,55.0
